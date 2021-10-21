@@ -1,0 +1,24 @@
+header {
+  background: url(/img/header-bg.png) no-repeat center;
+  background-size: cover;
+}
+.home-title {
+  height: 100vh;
+  padding-bottom: 250px;
+}
+.video-right {
+  background: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)),
+    url(/img/video-bg.png) no-repeat center;
+  background-size: cover;
+  height: 350px;
+}
+.py-7 {
+  padding: 7rem 0;
+}
+#top_courses {
+  background-color: #f9f9ff;
+}
+.course .lnr {
+  color: #235ee7;
+  font-size: 30px;
+}
